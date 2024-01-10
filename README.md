@@ -31,9 +31,9 @@ python3 src/main.py
 
 # Example
 
-![img1](demo_1.png)
+![img1](./img/demo_1.png)
 
-![img1](demo_2.png)
+![img2](./img/demo_2.png)
 
-![img1](demo_3.png)
+![img/img1](./img/demo_3.png)
 
